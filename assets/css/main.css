@@ -2706,15 +2706,18 @@ input, select, textarea {
 					}
 
 			.tiles article.style1 > .image:before {
-				background-color: #f2849e;
+				/*background-color: #f2849e;*/
+				background-color: #BC452C;
 			}
 
 			.tiles article.style2 > .image:before {
-				background-color: #7ecaf6;
+				/*background-color: #7ecaf6;*/
+				background-color: #CD7E26;
 			}
 
 			.tiles article.style3 > .image:before {
-				background-color: #7bd0c1;
+				/*background-color: #7bd0c1;*/
+				background-color: #0F4088;
 			}
 
 			.tiles article.style4 > .image:before {
@@ -2855,8 +2858,8 @@ input, select, textarea {
 
 				#header .logo .symbol img {
 					display: block;
-					width: 2em;
-					height: 2em;
+					/*width: 2em;*/
+					height: 15em;
 				}
 
 		#header nav {
